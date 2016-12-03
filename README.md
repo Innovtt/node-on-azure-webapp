@@ -1,5 +1,5 @@
 # node-on-azure-webapp
-Example of how configure your node.js app to serve static files on Azure WebApp
+Example of configuration for a node.js app serving static files on Azure WebApp
 
 The purpose of this repository is to clarify how to publish node.js applications in the Azure WebApp service and also to create a base of examples of rewrite rules and other settings needed for nodejs applications in the Azure service.
 
